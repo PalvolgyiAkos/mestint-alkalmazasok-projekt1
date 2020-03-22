@@ -8,6 +8,6 @@ hogy a sakktábla néhány előre megjelölt mezejét pontosan annyi bábu táma
 amekkora értékeket a megjelölt mezőbe beleírtunk.
 
 A sakkjáték eredeti szabályaival ellentétben egy gyalogot akár az első,
-akár az utolsó sorbais elhelyezhetünk.
+akár az utolsó sorba is elhelyezhetünk.
 
 Nem állhat két figura azonos mezőn és nem állhat figura a számokkal megjelölt mezőkön sem.
